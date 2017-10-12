@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginNeu</string>
+    <string name="alert_email">Bitte geben Sie Ihre E-Mail-Adresse ein.</string>
+    <string name="alert_fpw">Falsches Passwort.</string>
+    <string name="alert_nat">Benutzername ist bereits vergeben.</string>
+    <string name="alert_nyr">Diese E-Mail-Adresse wurde noch nicht registriert</string>
+    <string name="alert_short_pw">Bitte wählen Sie ein Passwort mit mindestens 6 Zeichen.</string>
+    <string name="alert_standard">Hm, das hätte nicht passieren dürfen.</string>
+    <string name="button_signin">Anmelden oder Registrieren</string>
+    <string name="prompt_email">E-Mail</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="prompt_register">Ich habe noch keinen Account.</string>
+    <string name="prompt_username">Benutzername (optional)</string>
+</resources>

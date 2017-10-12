@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginNeu</string>
+    <string name="prompt_username">Username (optional)</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_register">I don\'t have an account yet</string>
+    <string name="button_signin">Sign in or up</string>
+    <string name="alert_standard">Well, that shouldn\'t happen.</string>
+    <string name="alert_email">Please insert your email adress.</string>
+    <string name="alert_nat">Username already taken.</string>
+    <string name="alert_nyr">This email is not yet registered.</string>
+    <string name="alert_fpw">Incorrect Password.</string>
+    <string name="alert_short_pw">Please pick a password with a length of at least 6 characters.</string>
+    <string name="begruessung">Hallo, </string>
+</resources>
